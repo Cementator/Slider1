@@ -1,0 +1,25 @@
+{
+  "name": "slider1",
+  "version": "1.0.0",
+  "description": "Slider za 2 reda slika",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cementator/Slider1.git"
+  },
+  "keywords": [
+    "slider"
+  ],
+  "author": "Ivica Krancpiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cementator/Slider1/issues"
+  },
+  "homepage": "https://github.com/Cementator/Slider1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
